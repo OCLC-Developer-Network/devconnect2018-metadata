@@ -1,0 +1,41 @@
+{
+  "name": "devconnect_2018_metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon local.js",
+    "deploy": "serverless deploy",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cucumber": "^4.0.0",
+    "cucumber-mink": "^2.0.0",
+    "mocha": "^5.0.1",
+    "moxios": "^0.4.0",
+    "nodemon": "^1.17.1",
+    "serverless": "^1.26.1",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.231.1",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "csv": "^3.0.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "js-yaml": "^3.10.0",
+    "marc4js": "0.0.9",
+    "nodeauth": "git+https://github.com/OCLC-Developer-Network/oclc-auth-node.git",
+    "read-yaml": "^1.1.0",
+    "ssh2-sftp-client": "^2.1.1",
+    "string": "^3.3.3",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  }
+}
