@@ -1,6 +1,6 @@
-barcode,newLocation,tempLocation
-46789,
-987456111,
-jeff1031,
-99913,
-6677889955,
+barcode,newBranch,newLocation,tempLocation
+46789,,WEST-Reference,WEST-STACKS 
+987456111,,MAIN-STACKS,Main Reserves - 2 hours
+jeff1031,,MAIN-Reference,Main Reserves - 2 hours
+99913,,MAIN-Reference,Main Reserves - 2 hours
+6677889955,,MAIN-Reference,Main Reserves - 2 hours
